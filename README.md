@@ -6,3 +6,5 @@
   Source "https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/what-you-export-matters.pdf"
 
 - File "Compute_Stochastic_Kernel.ipynb" Compute Multivariate stochastic kernel density estimator (without using existing libraries) starting from RCA (relative comparative advantage) using HS5 classification for several countries
+
+- File "COMTRADE_API_2cifre.ipynb" Editing Comtrade APIs to download and edit trade data
